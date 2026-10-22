@@ -1,0 +1,7 @@
+Exam ID,Subject Code,Subject Name,Date,Start Time,End Time,Room Name,Room Capacity,Students Enrolled,Invigilator,Status
+EXAM_CS301,CS301,Data Structures and Algorithms,2026-10-11,09:30,12:30,Lecture Hall 103,35,35,Dr. Ramanathan K,Successfully Scheduled
+EXAM_CS302,CS302,Operating Systems,2026-10-11,13:30,16:30,Lecture Hall 103,35,35,Dr. Ramanathan K,Successfully Scheduled
+EXAM_CS303,CS303,Database Management Systems,2026-10-10,09:30,12:30,Lecture Hall 101,65,60,Dr. Ramanathan K,Successfully Scheduled
+EXAM_EC301,EC301,Digital Electronics,2026-10-10,09:30,12:30,Lecture Hall 103,35,20,Dr. Priya Sharma,Successfully Scheduled
+EXAM_IT301,IT301,Web Technologies,2026-10-11,09:30,12:30,Seminar Hall Block B,40,25,Dr. Priya Sharma,Successfully Scheduled
+EXAM_MA301,MA301,Discrete Mathematics,2026-10-10,13:30,16:30,Lecture Hall 101,65,60,Dr. Ramanathan K,Successfully Scheduled
